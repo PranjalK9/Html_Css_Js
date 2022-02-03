@@ -1,0 +1,35 @@
+.container {
+  margin-left: 15%;
+  margin-right: 10%;
+  font-size: 1.4rem;
+  color: violet;
+  border: violet 1px solid;
+}
+.Buttons {
+  padding-left: 10%;
+  background-color: chartreuse;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#add-item {
+  border-radius: 1.2rem;
+  padding: 10px 26px;
+  font-size: 1rem;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.18);
+}
+#update-item {
+  border-radius: 1.2rem;
+  padding: 10px 26px;
+  font-size: 1rem;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.18);
+}
+#remove-item {
+  border-radius: 1.2rem;
+  padding: 10px 26px;
+  font-size: 1rem;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.18);
+}
+#input {
+  font-size: 2rem;
+  padding: 15px 32px;
+}
